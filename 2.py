@@ -1,4 +1,5 @@
 # Define the Departments and Employees databases as dictionaries
+# Define the Departments and Employees databases as dictionaries
 departments = {
     10: "Admin",
     20: "Accounts",
